@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-05T15:57:12 IST" name="Suite" finished-at="2023-04-05T15:57:19 IST" duration-ms="7009">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T15:57:12 IST" name="Test" finished-at="2023-04-05T15:57:19 IST" duration-ms="7009">
+      <class name="test_class.get_TC1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.get_TC1@301eda63]" started-at="2023-04-05T15:57:17 IST" name="orchestrator" finished-at="2023-04-05T15:57:18 IST" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.get_TC1 -->
+      <class name="test_class.put_TC1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.put_TC1@573906eb]" started-at="2023-04-05T15:57:12 IST" name="orchestrator" finished-at="2023-04-05T15:57:17 IST" duration-ms="4912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.put_TC1 -->
+      <class name="test_class.patch_TC1">
+        <test-method signature="orchestrator()[pri:0, instance:test_class.patch_TC1@3d246ea3]" started-at="2023-04-05T15:57:18 IST" name="orchestrator" finished-at="2023-04-05T15:57:19 IST" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orchestrator -->
+      </class> <!-- test_class.patch_TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
